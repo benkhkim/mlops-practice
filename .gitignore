@@ -2,7 +2,7 @@
 data/data.csv
 
 # 모델 파일 (선택사항: 너무 크면 제외)
-models/*.pkl
+#models/*.pkl
 
 # 가상환경 및 캐시
 __pycache__/
