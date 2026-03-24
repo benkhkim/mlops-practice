@@ -1,0 +1,14 @@
+# 데이터 (DVC가 관리하므로 Git은 무시)
+data/data.csv
+
+# 모델 파일 (선택사항: 너무 크면 제외)
+models/*.pkl
+
+# 가상환경 및 캐시
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+
+# MLflow 로그
+mlruns/
